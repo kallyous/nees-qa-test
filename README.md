@@ -2,7 +2,7 @@
 
 ---
 
-**ROTEIRO PROPOSTO**: [nees-qa-test/roteiro.md](./roteiro.md)
+**ROTEIRO PROPOSTO**: [roteiro.md](./roteiro.md)
 
 ---
 
