@@ -30,7 +30,7 @@ Vamos chamar cada assunto que o sistema pode ser capaz de reconhecer, resolver e
 Os erros serão divididos em três tipos diferentes de erros:
       1. Erros aritméticos.
       2. Erros algébricos.
-      3. Erros de aplicação de teoremas e provas.
+      3. Erros de aplicação de teoremas e provas.  
       Suponho que erros do tipo 3 sejam os mais desafiadores para o sistema detectar e corrigir, e vou adorar acompanhar a evolução no sistema nesse e nos outros aspectos.
 
 4. Ainda para cada competência, após elaborado e resolvido (com os erros propositais planejados) a lista de questões, vou fotografar uma a uma no aplicativo e registar o resultado respondido pelo sistema, com prints e anotações pessoais, incluindo as questões que errei propositalmente, onde errei, e qual seria uma forma correta de ter feito.
