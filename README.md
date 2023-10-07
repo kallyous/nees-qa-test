@@ -1,5 +1,11 @@
 # Teste seletivo para vaga de Tester
 
+---
+
+**ROTEIRO PROPOSTO**: [nees-qa-test/roteiro.md](./roteiro.md)
+
+---
+
 Olá! 👋
 
 Se você esta lendo este texto, significa que convidamos você para participar do nosso teste seletivo para Tester. Você desempenhará um papel fundamental no projeto, testando a nossa solução. Antes, então, vamos apresentar um pouco do que temos até aqui!
